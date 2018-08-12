@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eiblog/eiblog/setting"
+	"github.com/weiwei-xiao/eiblog/setting"
 	"github.com/eiblog/utils/logd"
 	"github.com/eiblog/utils/mgo"
 	"github.com/gin-gonic/gin"

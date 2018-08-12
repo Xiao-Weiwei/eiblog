@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/eiblog/eiblog/setting"
 	"github.com/eiblog/utils/logd"
+	"github.com/weiwei-xiao/eiblog/setting"
 )
 
 type Pinger interface {

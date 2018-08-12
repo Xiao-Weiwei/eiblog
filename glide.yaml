@@ -1,4 +1,4 @@
-package: github.com/eiblog/eiblog
+package: github.com/weiwei-xiao/eiblog
 import:
 - package: github.com/deepzz0/logd
 - package: github.com/eiblog/blackfriday
